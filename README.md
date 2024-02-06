@@ -22,6 +22,8 @@
 
 <img src="img/MyPicture.jpg" alt="My Picture" width="200">
 <a href="introduction.html">Click the link to go to the next page</a>
+<a href="little_prince.html">Click the link to go to the next page</a>
+
 
 </body>
 </html>
